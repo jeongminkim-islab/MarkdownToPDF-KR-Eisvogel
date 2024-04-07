@@ -3,7 +3,7 @@
 ---
 
 # Markdown to PDF Converter with Eisvogel Template for Korean Reports
-이 프로젝트는 사용자가 Markdown 문서를 PDF 보고서로 변환할 수 있게 해주는 Flask 기반 웹 서비스입니다. 특히, Eisvogel LaTeX 템플릿을 사용하여 보고서의 스타일링을 강화하고, 한국어로 된 문서의 변환을 개선하기 위한 추가 설정을 제공합니다. 이 서비스는 특히 한국어로 작성된 마크다운 파일을 높은 품질의 PDF로 변환하는 데 최적화되어 있습니다.
+이 프로젝트는 사용자가 Markdown 문서를 PDF 보고서로 변환할 수 있게 해주는 Flask 기반 웹 서비스입니다. 특히, [Eisvogel LaTeX](https://github.com/Wandmalfarbe/pandoc-latex-template) 템플릿을 사용하여 보고서의 스타일링을 강화하고, 한국어로 된 문서의 변환을 개선하기 위한 추가 설정을 제공합니다. 이 서비스는 특히 한국어로 작성된 마크다운 파일을 높은 품질의 PDF로 변환하는 데 최적화되어 있습니다.
 
 ## 주요 특징
 
